@@ -2,5 +2,5 @@ Shofi Resolusi
 -Back End 
 -Front End
 -Project
--Job Company
 -SKRIPSI
+-Healing
