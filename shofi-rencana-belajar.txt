@@ -3,6 +3,7 @@ Rencana Belajar Shofi
 -Javascript
   *framework
    ^vue
+   ^reakt
   *DOM
 -IOT
 -CSS
