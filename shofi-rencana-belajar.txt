@@ -5,7 +5,6 @@ Rencana Belajar Shofi
    ^vue
    ^reakt
   *DOM
--IOT
 -CSS
  *framework css
 -API
