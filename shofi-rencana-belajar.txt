@@ -2,7 +2,10 @@ Rencana Belajar Shofi
 -Git Github
 -Javascript
   *framework
+   ^vue
   *DOM
 -IOT
 -CSS
+ *framework css
 -API
+-Pyton
