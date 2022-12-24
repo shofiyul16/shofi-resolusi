@@ -2,7 +2,9 @@ Rencana Belajar Shofi
 -Git Github
 -Javascript
   *framework
+   ^angular
+   ^reakt
   *DOM
--IOT
 -CSS
+ *framework css
 -API
