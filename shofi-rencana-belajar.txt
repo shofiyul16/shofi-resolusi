@@ -1,0 +1,5 @@
+Rencana Belajar Shofi
+-Git Github
+-Javascript
+-CSS
+-API
